@@ -8,7 +8,7 @@ categories: [Hilbert spaces]
 
 The motivating example for neural nets (with non-linear activation function) is the XOR example:
 
-Consider the problem of generating the XOR function using only matrix multiplications and an activation function.  XOR maps the space of $$[0, 1] \times [0, 1] \leftarrow [0, 1]$$ as such:
+Consider the problem of generating the XOR function using only matrix multiplications and an activation function.  XOR maps the space of $$[0, 1] \times [0, 1] \rightarrow [0, 1]$$ as such:
 
 <div class="equation" data-expr="
 \begin{vmatrix}
